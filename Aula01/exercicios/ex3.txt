@@ -1,0 +1,14 @@
+a)  false
+b)  false
+c)  false
+d)  true;
+    true
+e)  true 
+f)  X = a ;
+    X = c ;
+    X = d ;
+    X = a ;
+    X = b ;
+    X = d.
+nesta ultima consulta f), o prolog executa por ordem a primeira regra 
+s(X):-q(X) e depois a segunda regra s(X) :- p(X)

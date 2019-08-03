@@ -1,0 +1,10 @@
+a) X=b;
+   X=d;
+   X=f
+b) false 
+c) true
+d) true
+e) true
+f) true
+g) X=d
+h) false

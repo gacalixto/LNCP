@@ -1,0 +1,12 @@
+  a) A = b
+  b) false
+  c) A = B
+  d) A = 1+2
+  e) A = p(a, b)
+  f)false
+  g)A=a
+    B=b 
+  h)false 
+  i)false
+  j)false
+  k)A = f(b)
